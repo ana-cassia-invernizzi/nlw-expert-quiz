@@ -1,2 +1,2 @@
-# nlw-expert-quiz
+# NLW Expert Quiz
 Quiz feito durante a NLW Expert
