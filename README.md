@@ -13,5 +13,5 @@
 
 
 <h2>Deploy do projeto</h2>
-<a href="https://ana-cassia-invernizzi.github.io/programa-one-desafio-1/">Quiz</a>
+<a href="https://ana-cassia-invernizzi.github.io/nlw-expert-quiz/">Quiz</a>
 
