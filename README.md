@@ -13,6 +13,6 @@
 
 
 <h2>Deploy do projeto</h2>
-<img src="">
+<img src="assets/Captura de tela de 2024-02-07 21-23-38.png">
 <a href="https://ana-cassia-invernizzi.github.io/nlw-expert-quiz/">Quiz</a>
 
